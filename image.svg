@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="140" viewBox="0 0 360 140">
+  <defs>
+    <linearGradient id="bg">
+      <stop offset="0%" stop-color="blue"/>
+      <stop offset="100%" stop-color="red"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="140" fill="url(#bg)"/>
+  <text x="180" y="80" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">Git</text>
+</svg>
